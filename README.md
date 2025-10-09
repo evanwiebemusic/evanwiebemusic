@@ -1,4 +1,4 @@
-# Hi, I'm Evan�
+# Hi, I'm Evan
 
 I'm passionate about voice, audio, and audio storytelling. Currently exploring the intersection of voice technology and human expression.
 
