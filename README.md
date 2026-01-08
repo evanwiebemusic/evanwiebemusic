@@ -9,7 +9,7 @@ I'm passionate about voice, audio, and audio storytelling. Currently exploring t
 - Ethical approaches to voice cloning
 
 ## Why ElevenLabs?
-I love how ElevenLabs is already becoming a household name, and has the gold standard of TTS interfaces.
+ElevenLabs is now a household name, and has built the gold standard for TTS interfaces.
 
 ## Background
 Trained in music, composition, and audio engineering, I've helped thousands of Voice actors improve their performances and their home studio audio.
