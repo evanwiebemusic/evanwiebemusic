@@ -3,10 +3,8 @@
 I'm passionate about voice, audio, and audio storytelling. Currently exploring the intersection of voice technology and human expression.
 
 ## What I'm interested in
-- Voice AI and synthesis
-- Audio quality and curation
-- The art of voice casting and direction
-- Ethical approaches to voice cloning
+- Audio experiences that sound beautiful
+- Ethical approaches to AI
 
 ## Why ElevenLabs?
 ElevenLabs is now a household name, and has built the gold standard for TTS interfaces.
